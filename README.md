@@ -1,26 +1,26 @@
-# Hi, I'm <Your Name>
+# Hi, I'm Atharv Warkari
 
 Computer Engineering Undergraduate  
-Interested in AI, Backend Development, and Data Analysis.
+Building secure backend systems, clean UI/UX interfaces, and full-stack web applications.
 
 ---
 
 ## Skills
 
 ### Programming
-Python, SQL, JavaScript, HTML, CSS
+Python · SQL · JavaScript · HTML · CSS
 
 ### Frameworks & Libraries
-Flask,Bootstrap, Angular
+Flask · Angular · Bootstrap · SQLAlchemy
 
 ### Databases
-PostgreSQL, SQLite, Firebase Firestore
+PostgreSQL · SQLite · Firebase Firestore
 
 ### Tools
-Git, GitHub, Power BI
+Git · GitHub · Power BI
 
 ### Core Areas
-Backend Development, Web Development, Database Design, Authentication Systems, Data Analysis, API Development
+Backend Development · API Design · Authentication Systems · Web Security · UI/UX Design · Data Analysis
 
 ---
 
@@ -34,63 +34,81 @@ Backend Development, Web Development, Database Design, Authentication Systems, D
 
 ## Projects
 
-### TRUEVISION [Vision Based Deepfake Detection System]
-Flask-based web application that detects deepfake images using a transformer model.
+### TRUEVISION – Vision Based Deepfake Detection System
+Flask-based web application for detecting manipulated facial images with emphasis on structured backend flow and clear result interpretation.
+
+Backend highlights:
+- Model inference integration within Flask workflow
+- Face validation using MediaPipe before processing
+- Grad-CAM heatmap generation for visual explanation
+- Feedback collection system linked to prediction results
+- PostgreSQL / SQLite database integration via SQLAlchemy
+- Secure authentication and session handling
+
+UI highlights:
+- Image upload interface with validation checks
+- Result page displaying prediction confidence and explanation
+- User history view and performance insights interface
+- Structured navigation and readable layout
+
+Tech: Python · Flask · PyTorch · MediaPipe · SQLAlchemy
+
+
+### Northstar-ID – Secure Authentication System (Flask)
+Backend-focused authentication module designed with practical security considerations.
 
 Key features:
-- PyTorch model inference
-- MediaPipe face validation
-- Grad-CAM explainability heatmaps
-- User feedback collection system
-- PostgreSQL / SQLite database integration
-- Secure authentication system
+- Password hashing using bcrypt
+- Input validation and login verification logic
+- Session management for authenticated users
+- Feedback tracking stored in relational database
 
-Tech: Python, Flask, PyTorch, MediaPipe, SQLAlchemy
+Tech: Flask · SQLAlchemy · SQLite · PostgreSQL
 
-### Sanatana Yoga [User-Centered Yoga Platform Website]
-Frontend-focused website designed to provide structured information about yoga programs, classes, and user engagement features.
 
-Key features:
-- Responsive UI design optimized for mobile and desktop
-- Structured navigation with dropdown menus
-- FAQ interaction system with feedback (thumbs up/down)
-- Testimonials section focused on user experience
-- Newsletter subscription integrated with Firebase Firestore
-- Clean layout for class information and contact sections
+### Sanatana Yoga – User-Centered Yoga Platform Website
+Frontend-focused website structured around clarity of information and smooth navigation experience.
 
-Tech:
-HTML, CSS, Bootstrap, Angular, Firebase Firestore
+UI highlights:
+- Mobile-responsive layout for different screen sizes
+- Multi-level navigation with dropdown structure
+- FAQ interaction with feedback mechanism
+- Testimonials section structured for readability
+- Clear layout for class information and contact content
+
+Backend integration:
+- Newsletter subscription stored in Firebase Firestore
+- Form data validation before database submission
+- Structured document storage for subscriber records
+- Error handling for invalid or duplicate email entries
+- Firestore security rules configuration for controlled write access
+- Real-time database update without page reload
+- Input sanitization for form fields
+- Basic spam prevention logic
+
+Tech: HTML · CSS · Bootstrap · Angular · Firebase Firestore
+
 
 ### Power BI Sales Dashboard
-Interactive dashboard for business insights and performance monitoring.
+Interactive dashboard for analyzing business performance across multiple dimensions.
 
 Key features:
-- Revenue and profit analysis
-- Monthly sales trends
-- Regional performance comparison
-- Category-level insights
-- Salesperson performance tracking
+- Revenue and profit trend visualization
+- Monthly performance comparison
+- Region-wise and category-wise insights
+- Salesperson performance breakdown
+- Filterable views for structured analysis
 
-Tech: Power BI, Data Cleaning, Visualization
-
-
-### Northstar-ID [Secure Authentication System (Flask)]
-Backend authentication system with security-focused design.
-
-Key features:
-- Password hashing (bcrypt)
-- Login validation and session management
-- Protection against brute-force attacks
-- Feedback tracking linked to database
-
-Tech: Flask, SQLAlchemy, SQLite/PostgreSQL
+Tech: Power BI · Data Cleaning · Data Visualization
 
 ---
 
 ## Currently Learning
-- Advanced Python
-- Backend Development
-- Deep Learning
+- API design and structuring
+- UI/UX improvement for web interfaces
+- Backend architecture organization
+- Angular component structuring and state flow
+- Web application security fundamentals
 
 ---
 
@@ -98,3 +116,4 @@ Tech: Flask, SQLAlchemy, SQLite/PostgreSQL
 - GitHub: https://github.com/warkariii28
 - LinkedIn: www.linkedin.com/in/atharv-warkari-a489171a5
 - Email: atharv.warkari@rediffmail.com
+- Instagram (Writing): https://www.instagram.com/waryogi_thinks
