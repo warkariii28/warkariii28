@@ -109,6 +109,7 @@ Tech: Power BI · Data Cleaning · Data Visualization
 - Backend architecture organization
 - Angular component structuring and state flow
 - Web application security fundamentals
+- Google Cybersecurity Professional Certificate(ongoing)
 
 ---
 
