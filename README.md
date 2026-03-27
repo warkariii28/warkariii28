@@ -36,7 +36,7 @@ Backend Development, Web Development, Database Design, Authentication Systems, D
 
 ## Projects
 
-### TRUEVISION – Vision Based Deepfake Detection System
+### TRUEVISION [Vision Based Deepfake Detection System]
 Flask-based web application that detects deepfake images using a transformer model.
 
 Key features:
@@ -49,7 +49,7 @@ Key features:
 
 Tech: Python, Flask, PyTorch, MediaPipe, SQLAlchemy
 
-### Sanatana Yoga – User-Centered Yoga Platform Website
+### Sanatana Yoga [User-Centered Yoga Platform Website]
 Frontend-focused website designed to provide structured information about yoga programs, classes, and user engagement features.
 
 Key features:
@@ -76,7 +76,7 @@ Key features:
 Tech: Power BI, Data Cleaning, Visualization
 
 
-### Secure Authentication System (Flask)
+### Northstar-ID [Secure Authentication System (Flask)]
 Backend authentication system with security-focused design.
 
 Key features:
@@ -97,4 +97,6 @@ Tech: Flask, SQLAlchemy, SQLite/PostgreSQL
 ---
 
 ## Contact
-Will update soon.
+- GitHub: https://github.com/warkariii28
+- LinkedIn: www.linkedin.com/in/atharv-warkari-a489171a5
+- Email: atharv.warkari@rediffmail.com
