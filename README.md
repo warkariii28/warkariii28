@@ -26,9 +26,9 @@ Backend Development, Web Development, Database Design, Authentication Systems, D
 
 ## GitHub Stats
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=warkariii28&show_icons=true&cache_seconds=86400)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=warkariii28&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=warkariii28&layout=compact&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=warkariii28&layout=compact&hide_border=true)
 
 ---
 
