@@ -15,7 +15,6 @@ Interested in AI, Backend Development, and Data Analysis.
 ---
 
 ## Projects
-## Projects
 
 ### TRUEVISION – Vision Based Deepfake Detection System
 Flask-based web application that detects deepfake images using a transformer model.
@@ -30,6 +29,19 @@ Key features:
 
 Tech: Python, Flask, PyTorch, MediaPipe, SQLAlchemy
 
+### Sanatana Yoga – User-Centered Yoga Platform Website
+Frontend-focused website designed to provide structured information about yoga programs, classes, and user engagement features.
+
+Key features:
+- Responsive UI design optimized for mobile and desktop
+- Structured navigation with dropdown menus
+- FAQ interaction system with feedback (thumbs up/down)
+- Testimonials section focused on user experience
+- Newsletter subscription integrated with Firebase Firestore
+- Clean layout for class information and contact sections
+
+Tech:
+HTML, CSS, Bootstrap, Angular, Firebase Firestore
 
 ### Power BI Sales Dashboard
 Interactive dashboard for business insights and performance monitoring.
