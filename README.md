@@ -6,11 +6,21 @@ Interested in AI, Backend Development, and Data Analysis.
 ---
 
 ## Skills
-- Python
-- SQL
-- Flask
-- Git
-- Machine Learning basics
+
+### Programming
+Python, SQL, JavaScript, HTML, CSS
+
+### Frameworks & Libraries
+Flask,Bootstrap, Angular
+
+### Databases
+PostgreSQL, SQLite, Firebase Firestore
+
+### Tools
+Git, GitHub, Power BI
+
+### Core Areas
+Backend Development, Web Development, Database Design, Authentication Systems, Data Analysis, API Development
 
 ---
 
