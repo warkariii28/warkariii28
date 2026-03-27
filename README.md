@@ -1,100 +1,130 @@
-# Hi, I'm <Your Name>
+# Hi, I'm Atharv Warkari 👋
 
 Computer Engineering Undergraduate  
-Interested in AI, Backend Development, and Data Analysis.
+Building secure backend systems, clean UI/UX interfaces, and full-stack web applications.
 
 ---
 
-## Skills
+## 🛠️ Skills
 
-### Programming
-Python, SQL, JavaScript, HTML, CSS
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
-Flask,Bootstrap, Angular
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white)
 
 ### Databases
-PostgreSQL, SQLite, Firebase Firestore
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-### Tools
-Git, GitHub, Power BI
+### Security
+![bcrypt](https://img.shields.io/badge/bcrypt-Password_Hashing-4A4A4A?style=flat)
+![MFA](https://img.shields.io/badge/MFA-Multi--Factor_Auth-2E86AB?style=flat)
+![reCAPTCHA](https://img.shields.io/badge/reCAPTCHA-Google-4285F4?style=flat&logo=google&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ### Core Areas
-Backend Development, Web Development, Database Design, Authentication Systems, Data Analysis, API Development
+`Backend Development` · `REST API Design` · `Authentication Systems` · `Web Security` · `UI/UX Design` · `Database Design` · `Data Analysis`
 
 ---
 
-## GitHub Stats
+## 📂 Projects
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=warkariii28&show_icons=true&theme=default&hide_border=true)
+### 🔍 TRUEVISION — Deepfake Detection Web Application
+A secure, full-stack web application for deepfake image detection. Emphasis on application security, structured backend architecture, and a clean user-facing interface.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=warkariii28&layout=compact&hide_border=true)
+**Backend & Security highlights:**
+- Multi-Factor Authentication (MFA) with login audit logging
+- Account lockout, rate limiting, and reCAPTCHA integration
+- Input sanitization and secure session management
+- Feedback system with satisfied/unsatisfied state tracking
+- PostgreSQL / SQLite via SQLAlchemy ORM
+
+**UI/UX highlights:**
+- Image upload interface with validation and real-time feedback
+- Prediction result page with confidence score and human-readable explanation
+- User history view and performance dashboard (confusion matrix, time-series analytics)
+- Responsive layout with structured navigation
+
+**Tech:** Python · Flask · SQLAlchemy · PostgreSQL · SQLite · HTML/CSS
 
 ---
 
-## Projects
+### 🧘 Sanatana Yoga — User-Centered Frontend Website
+A responsive, frontend-focused website built around structured information delivery and user engagement.
 
-### TRUEVISION [Vision Based Deepfake Detection System]
-Flask-based web application that detects deepfake images using a transformer model.
+**UI/UX highlights:**
+- Mobile-first responsive layout optimised for all screen sizes
+- Multi-level navigation with dropdown menus
+- Interactive FAQ section with thumbs up/down feedback
+- Testimonials section designed for credibility and readability
+- Clean class information and contact layout
 
-Key features:
-- PyTorch model inference
-- MediaPipe face validation
-- Grad-CAM explainability heatmaps
-- User feedback collection system
-- PostgreSQL / SQLite database integration
-- Secure authentication system
+**Backend integration:**
+- Newsletter subscription connected to Firebase Firestore
 
-Tech: Python, Flask, PyTorch, MediaPipe, SQLAlchemy
+**Tech:** HTML · CSS · Bootstrap · Angular · Firebase Firestore · SCSS
 
-### Sanatana Yoga [User-Centered Yoga Platform Website]
-Frontend-focused website designed to provide structured information about yoga programs, classes, and user engagement features.
+---
 
-Key features:
-- Responsive UI design optimized for mobile and desktop
-- Structured navigation with dropdown menus
-- FAQ interaction system with feedback (thumbs up/down)
-- Testimonials section focused on user experience
-- Newsletter subscription integrated with Firebase Firestore
-- Clean layout for class information and contact sections
+### 📊 Power BI Sales Dashboard
+An interactive business intelligence dashboard for sales monitoring and performance analysis.
 
-Tech:
-HTML, CSS, Bootstrap, Angular, Firebase Firestore
-
-### Power BI Sales Dashboard
-Interactive dashboard for business insights and performance monitoring.
-
-Key features:
-- Revenue and profit analysis
-- Monthly sales trends
+**Features:**
+- Revenue and profit trend analysis (monthly and YTD)
 - Regional performance comparison
-- Category-level insights
-- Salesperson performance tracking
+- Category-level and salesperson-level breakdowns
+- Clean, executive-facing visual layout
 
-Tech: Power BI, Data Cleaning, Visualization
-
-
-### Northstar-ID [Secure Authentication System (Flask)]
-Backend authentication system with security-focused design.
-
-Key features:
-- Password hashing (bcrypt)
-- Login validation and session management
-- Protection against brute-force attacks
-- Feedback tracking linked to database
-
-Tech: Flask, SQLAlchemy, SQLite/PostgreSQL
+**Tech:** Power BI · Data Cleaning · Data Visualization
 
 ---
 
-## Currently Learning
-- Advanced Python
-- Backend Development
-- Deep Learning
+### 🔐 Northstar-ID — Secure Authentication System
+A backend-first authentication system built with security as the primary design concern.
+
+**Security features:**
+- Password hashing with bcrypt
+- Brute-force protection via login attempt limiting
+- Secure session management and validation
+- Feedback and activity tracking linked to database
+
+**Tech:** Flask · SQLAlchemy · SQLite · PostgreSQL
 
 ---
 
-## Contact
-- GitHub: https://github.com/warkariii28
-- LinkedIn: www.linkedin.com/in/atharv-warkari-a489171a5
-- Email: atharv.warkari@rediffmail.com
+## 📚 Currently Learning
+- Web Application Security (Google Cybersecurity Professional Certificate)
+- Penetration Testing fundamentals (TryHackMe)
+- Advanced Angular architecture and component design
+- Contemporary Geopolitics and India's Foreign Policy
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-warkari-a489171a5)
+[![Email](https://img.shields.io/badge/Email-D44638?style=flat&logo=gmail&logoColor=white)](mailto:atharv.warkari@rediffmail.com)
+[![Instagram](https://img.shields.io/badge/@waryogi__thinks-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/waryogi_thinks)
+
+---
+
+## 📈 GitHub Stats
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=warkariii28&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=warkariii28&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=warkariii28&theme=github-dark-blue&hide_border=true)
