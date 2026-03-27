@@ -1,119 +1,100 @@
-# Hi, I'm Atharv Warkari 👋
+# Hi, I'm <Your Name>
 
 Computer Engineering Undergraduate  
-Building secure backend systems, clean UI/UX interfaces, and full-stack web applications.
+Interested in AI, Backend Development, and Data Analysis.
 
 ---
-## 🛠️ Skills
 
-### Languages
-Python · JavaScript · SQL · HTML · CSS
+## Skills
 
-### Frameworks & Technologies
-Flask · Angular · Bootstrap · SQLAlchemy
+### Programming
+Python, SQL, JavaScript, HTML, CSS
+
+### Frameworks & Libraries
+Flask,Bootstrap, Angular
 
 ### Databases
-PostgreSQL · SQLite · Firebase Firestore
-
-### Security
-bcrypt · MFA · reCAPTCHA · Session Management
+PostgreSQL, SQLite, Firebase Firestore
 
 ### Tools
-Git · GitHub · Power BI
+Git, GitHub, Power BI
 
 ### Core Areas
-Backend Development · REST API Design · Authentication Systems · Web Security · UI/UX Design · Data Analysis
-
-### Core Areas
-`Backend Development` · `REST API Design` · `Authentication Systems` · `Web Security` · `UI/UX Design` · `Database Design` · `Data Analysis`
+Backend Development, Web Development, Database Design, Authentication Systems, Data Analysis, API Development
 
 ---
 
-## 📂 Projects
+## GitHub Stats
 
-### 🔍 TRUEVISION — Deepfake Detection Web Application
-A secure, full-stack web application for deepfake image detection. Emphasis on application security, structured backend architecture, and a clean user-facing interface.
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=warkariii28&show_icons=true&theme=default&hide_border=true)
 
-**Backend & Security highlights:**
-- Multi-Factor Authentication (MFA) with login audit logging
-- Account lockout, rate limiting, and reCAPTCHA integration
-- Input sanitization and secure session management
-- Feedback system with satisfied/unsatisfied state tracking
-- PostgreSQL / SQLite via SQLAlchemy ORM
-
-**UI/UX highlights:**
-- Image upload interface with validation and real-time feedback
-- Prediction result page with confidence score and human-readable explanation
-- User history view and performance dashboard (confusion matrix, time-series analytics)
-- Responsive layout with structured navigation
-
-**Tech:** Python · Flask · SQLAlchemy · PostgreSQL · SQLite · HTML/CSS
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=warkariii28&layout=compact&hide_border=true)
 
 ---
 
-### 🧘 Sanatana Yoga — User-Centered Frontend Website
-A responsive, frontend-focused website built around structured information delivery and user engagement.
+## Projects
 
-**UI/UX highlights:**
-- Mobile-first responsive layout optimised for all screen sizes
-- Multi-level navigation with dropdown menus
-- Interactive FAQ section with thumbs up/down feedback
-- Testimonials section designed for credibility and readability
-- Clean class information and contact layout
+### TRUEVISION [Vision Based Deepfake Detection System]
+Flask-based web application that detects deepfake images using a transformer model.
 
-**Backend integration:**
-- Newsletter subscription connected to Firebase Firestore
+Key features:
+- PyTorch model inference
+- MediaPipe face validation
+- Grad-CAM explainability heatmaps
+- User feedback collection system
+- PostgreSQL / SQLite database integration
+- Secure authentication system
 
-**Tech:** HTML · CSS · Bootstrap · Angular · Firebase Firestore · SCSS
+Tech: Python, Flask, PyTorch, MediaPipe, SQLAlchemy
 
----
+### Sanatana Yoga [User-Centered Yoga Platform Website]
+Frontend-focused website designed to provide structured information about yoga programs, classes, and user engagement features.
 
-### 📊 Power BI Sales Dashboard
-An interactive business intelligence dashboard for sales monitoring and performance analysis.
+Key features:
+- Responsive UI design optimized for mobile and desktop
+- Structured navigation with dropdown menus
+- FAQ interaction system with feedback (thumbs up/down)
+- Testimonials section focused on user experience
+- Newsletter subscription integrated with Firebase Firestore
+- Clean layout for class information and contact sections
 
-**Features:**
-- Revenue and profit trend analysis (monthly and YTD)
+Tech:
+HTML, CSS, Bootstrap, Angular, Firebase Firestore
+
+### Power BI Sales Dashboard
+Interactive dashboard for business insights and performance monitoring.
+
+Key features:
+- Revenue and profit analysis
+- Monthly sales trends
 - Regional performance comparison
-- Category-level and salesperson-level breakdowns
-- Clean, executive-facing visual layout
+- Category-level insights
+- Salesperson performance tracking
 
-**Tech:** Power BI · Data Cleaning · Data Visualization
+Tech: Power BI, Data Cleaning, Visualization
 
----
 
-### 🔐 Northstar-ID — Secure Authentication System
-A backend-first authentication system built with security as the primary design concern.
+### Northstar-ID [Secure Authentication System (Flask)]
+Backend authentication system with security-focused design.
 
-**Security features:**
-- Password hashing with bcrypt
-- Brute-force protection via login attempt limiting
-- Secure session management and validation
-- Feedback and activity tracking linked to database
+Key features:
+- Password hashing (bcrypt)
+- Login validation and session management
+- Protection against brute-force attacks
+- Feedback tracking linked to database
 
-**Tech:** Flask · SQLAlchemy · SQLite · PostgreSQL
-
----
-
-## 📚 Currently Learning
-- Web Application Security (Google Cybersecurity Professional Certificate)
-- Penetration Testing fundamentals (TryHackMe)
-- Advanced Angular architecture and component design
-- Contemporary Geopolitics and India's Foreign Policy
+Tech: Flask, SQLAlchemy, SQLite/PostgreSQL
 
 ---
 
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-warkari-a489171a5)
-[![Email](https://img.shields.io/badge/Email-D44638?style=flat&logo=gmail&logoColor=white)](mailto:atharv.warkari@rediffmail.com)
-[![Instagram](https://img.shields.io/badge/@waryogi__thinks-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/waryogi_thinks)
+## Currently Learning
+- Advanced Python
+- Backend Development
+- Deep Learning
 
 ---
 
-## 📈 GitHub Stats
-
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=warkariii28&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=warkariii28&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=warkariii28&theme=github-dark-blue&hide_border=true)
+## Contact
+- GitHub: https://github.com/warkariii28
+- LinkedIn: www.linkedin.com/in/atharv-warkari-a489171a5
+- Email: atharv.warkari@rediffmail.com
