@@ -23,7 +23,9 @@ Git · GitHub · Power BI
 Backend Development · API Design · Authentication Systems · Web Security · UI/UX Design · Data Analysis
 
 ---
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=warkariii28)
+## GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=warkariii28&hide_border=true)
 
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=warkariii28)
 
