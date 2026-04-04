@@ -85,9 +85,3 @@ Interactive sales analytics dashboard for business data interpretation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
 [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
-
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
