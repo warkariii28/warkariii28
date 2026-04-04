@@ -1,119 +1,173 @@
-# Hi, I'm Atharv Warkari
+# Atharv Warkari
 
-Computer Engineering Undergraduate  
-Building secure backend systems, clean UI/UX interfaces, and full-stack web applications.
+Computer Engineering undergraduate · Software Development Intern  
+Building practical web applications with a focus on frontend structure 
+and backend integration.
+
+---
+
+## Current Focus
+
+* Frontend development using **Angular**, **HTML**, **CSS**, **Bootstrap**
+* Backend integration with **Python** and **Flask**
+* Database interaction via **SQLAlchemy** with **PostgreSQL** and **SQLite**
+* Authentication workflows: session handling, bcrypt, secure routing
+* Learning to connect UI layers with structured backend logic
 
 ---
 
-## Skills
+# Atharv Warkari
 
-### Programming
-Python · SQL · JavaScript · HTML · CSS
-
-### Frameworks & Libraries
-Flask · Angular · Bootstrap · SQLAlchemy
-
-### Databases
-PostgreSQL · SQLite · Firebase Firestore
-
-### Tools
-Git · GitHub · Power BI
-
-### Core Areas
-Backend Development · API Design · Authentication Systems · Web Security · UI/UX Design · Data Analysis
+Computer Engineering undergraduate · Software Development Intern  
+Building practical web applications with a focus on frontend structure 
+and backend integration.
 
 ---
-## GitHub Stats
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=warkariii28&show_icons=true&theme=github_dark&hide_border=true)
+## Current Focus
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=warkariii28&layout=compact&theme=github_dark&hide_border=true)
+* Frontend development using **Angular**, **HTML**, **CSS**, **Bootstrap**
+* Backend integration with **Python** and **Flask**
+* Database interaction via **SQLAlchemy** with **PostgreSQL** and **SQLite**
+* Authentication workflows: session handling, bcrypt, secure routing
+* Learning to connect UI layers with structured backend logic
 
 ---
 
 ## Projects
 
-### TRUEVISION – Vision Based Deepfake Detection System
-Flask-based web application for detecting manipulated facial images with emphasis on structured backend flow and clear result interpretation.
+### [TRUEVISION](https://github.com/warkariii28/TRUEVISION)
+Flask web application integrating a deepfake detection model (CNN + Vision 
+Transformer) with a structured web workflow.
 
-Backend highlights:
-- Model inference integration within Flask workflow
-- Face validation using MediaPipe before processing
-- Grad-CAM heatmap generation for visual explanation
-- Feedback collection system linked to prediction results
-- PostgreSQL / SQLite database integration via SQLAlchemy
-- Secure authentication and session handling
-
-UI highlights:
-- Image upload interface with validation checks
-- Result page displaying prediction confidence and explanation
-- User history view and performance insights interface
-- Structured navigation and readable layout
-
-Tech: Python · Flask · PyTorch · MediaPipe · SQLAlchemy
-
-
-### Northstar-ID – Secure Authentication System (Flask)
-Backend-focused authentication module designed with practical security considerations.
-
-Key features:
-- Password hashing using bcrypt
-- Input validation and login verification logic
-- Session management for authenticated users
-- Feedback tracking stored in relational database
-
-Tech: Flask · SQLAlchemy · SQLite · PostgreSQL
-
-
-### Sanatana Yoga – User-Centered Yoga Platform Website
-Frontend-focused website structured around clarity of information and smooth navigation experience.
-
-UI highlights:
-- Mobile-responsive layout for different screen sizes
-- Multi-level navigation with dropdown structure
-- FAQ interaction with feedback mechanism
-- Testimonials section structured for readability
-- Clear layout for class information and contact content
-
-Backend integration:
-- Newsletter subscription stored in Firebase Firestore
-- Form data validation before database submission
-- Structured document storage for subscriber records
-- Error handling for invalid or duplicate email entries
-- Firestore security rules configuration for controlled write access
-- Real-time database update without page reload
-- Input sanitization for form fields
-- Basic spam prevention logic
-
-Tech: HTML · CSS · Bootstrap · Angular · Firebase Firestore
-
-
-### Power BI Sales Dashboard
-Interactive dashboard for analyzing business performance across multiple dimensions.
-
-Key features:
-- Revenue and profit trend visualization
-- Monthly performance comparison
-- Region-wise and category-wise insights
-- Salesperson performance breakdown
-- Filterable views for structured analysis
-
-Tech: Power BI · Data Cleaning · Data Visualization
+* Image validation, Grad-CAM visual output, MediaPipe face filtering
+* PostgreSQL-backed result logging with SQLAlchemy
+* Dark forensic UI with responsive layout
+* **Purpose:** understand how ML models integrate with web applications
 
 ---
 
-## Currently Learning
-- API design and structuring
-- UI/UX improvement for web interfaces
-- Backend architecture organization
-- Angular component structuring and state flow
-- Web application security fundamentals
-- Google Cybersecurity Professional Certificate(ongoing)
+### [Northstar-ID](https://github.com/warkariii28/Northstar-ID)
+Backend learning project focused on building a secure authentication workflow.
+
+* Login and registration using Flask + bcrypt password hashing
+* Session-based authentication and route protection
+* SQLAlchemy ORM with SQLite database
+* **Purpose:** understand authentication flow and credential handling basics
+
+---
+
+### [Sanatana Yoga](https://github.com/warkariii28/sanatana-yoga)
+Structured informational website with clear layout and navigation.
+
+* Built with Angular, Bootstrap, and custom CSS
+* Organized component structure and responsive design
+* Firebase Firestore newsletter form integration
+* **Purpose:** strengthen frontend structuring and component organization
+
+---
+
+### [Power BI Sales Dashboard](https://github.com/warkariii28/powerbi-sales-dashboard)
+Interactive sales analytics dashboard for business data interpretation.
+
+* Revenue trends, regional breakdowns, category and salesperson metrics
+* Built in Power BI with structured visual hierarchy
+* **Purpose:** practice structured data presentation and dashboard design
+
+---
+
+## Tech Stack
+
+|       Layer      |              Tools               |
+|------------------|----------------------------------|
+| Frontend         | Angular · HTML · CSS · Bootstrap |
+| Backend          | Python · Flask                   |
+| Database         | PostgreSQL · SQLite · SQLAlchemy |
+| Auth             | bcrypt · Flask sessions          |
+| Cloud / Services | Firebase Firestore               |
+| Analytics        | Power BI                         |
+| Version Control  | Git · GitHub                     |
+
+---
+
+## Learning Path
+
+* 🔐 Google Cybersecurity Professional Certificate *(in progress)*
+* 🛡️ TryHackMe — Pre-Security path completed, CyberSecurity 101 ongoing
+* 📐 Focused on understanding secure backend design fundamentals
 
 ---
 
 ## Contact
-- GitHub: https://github.com/warkariii28
-- LinkedIn: www.linkedin.com/in/atharv-warkari-a489171a5
-- Email: atharv.warkari@rediffmail.com
-- Instagram (Writing): https://www.instagram.com/waryogi_thinks
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
+
+## Projects
+
+### [TRUEVISION](https://github.com/warkariii28/TRUEVISION)
+Flask web application integrating a deepfake detection model (CNN + Vision 
+Transformer) with a structured web workflow.
+
+* Image validation, Grad-CAM visual output, MediaPipe face filtering
+* PostgreSQL-backed result logging with SQLAlchemy
+* Dark forensic UI with responsive layout
+* **Purpose:** understand how ML models integrate with web applications
+
+---
+
+### [Northstar-ID](https://github.com/warkariii28/Northstar-ID)
+Backend learning project focused on building a secure authentication workflow.
+
+* Login and registration using Flask + bcrypt password hashing
+* Session-based authentication and route protection
+* SQLAlchemy ORM with SQLite database
+* **Purpose:** understand authentication flow and credential handling basics
+
+---
+
+### [Sanatana Yoga](https://github.com/warkariii28/sanatana-yoga)
+Structured informational website with clear layout and navigation.
+
+* Built with Angular, Bootstrap, and custom CSS
+* Organized component structure and responsive design
+* Firebase Firestore newsletter form integration
+* **Purpose:** strengthen frontend structuring and component organization
+
+---
+
+### [Power BI Sales Dashboard](https://github.com/warkariii28/powerbi-sales-dashboard)
+Interactive sales analytics dashboard for business data interpretation.
+
+* Revenue trends, regional breakdowns, category and salesperson metrics
+* Built in Power BI with structured visual hierarchy
+* **Purpose:** practice structured data presentation and dashboard design
+
+---
+
+## Tech Stack
+
+|       Layer      |              Tools               |
+|------------------|----------------------------------|
+| Frontend         | Angular · HTML · CSS · Bootstrap |
+| Backend          | Python · Flask                   |
+| Database         | PostgreSQL · SQLite · SQLAlchemy |
+| Auth             | bcrypt · Flask sessions          |
+| Cloud / Services | Firebase Firestore               |
+| Analytics        | Power BI                         |
+| Version Control  | Git · GitHub                     |
+
+---
+
+## Learning Path
+
+* 🔐 Google Cybersecurity Professional Certificate *(in progress)*
+* 🛡️ TryHackMe — Pre-Security path completed, CyberSecurity 101 ongoing
+* 📐 Focused on understanding secure backend design fundamentals
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
