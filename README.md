@@ -1,8 +1,7 @@
 # Atharv Warkari
 
 Computer Engineering undergraduate · Software Development Intern  
-Building practical web applications with a focus on frontend structure 
-and backend integration.
+Building practical web applications with strong frontend structure and growing backend integration skills.
 
 ---
 
