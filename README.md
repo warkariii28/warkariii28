@@ -9,9 +9,10 @@ Building practical web applications with strong frontend structure and growing b
 
 * Frontend development using **Angular**, **HTML**, **CSS**, **Bootstrap**
 * Backend integration with **Python** and **Flask**
-* Database interaction via **SQLAlchemy** with **PostgreSQL** and **SQLite**
+* Database interaction via **SQLAlchemy** with **PostgreSQL, SQLLite** and **MS SQL**
 * Authentication workflows: session handling, bcrypt, secure routing
 * Learning to connect UI layers with structured backend logic
+* .NET Framework implementation using C# 
 
 ---
 
