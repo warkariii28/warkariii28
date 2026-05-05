@@ -63,7 +63,7 @@ Interactive analytics dashboard for business data insights.
 
 ---
 
-### [.NET Learning APIs] (https://github.com/warkariii28/Student-Enrollment-System)
+### [.NET Learning APIs](https://github.com/warkariii28/Student-Enrollment-System)
 Ongoing backend development practice using ASP.NET Core.
 
 * Building REST APIs using **ASP.NET Core Web API**
