@@ -1,104 +1,183 @@
 # Atharv Warkari
 
-Computer Engineering undergraduate · Software Development Intern  
-Building practical web applications with structured frontend systems and progressively integrating backend and system-level development.
+### Software Engineer · Full-Stack .NET Developer
+
+Software Engineer focused on building structured, maintainable web applications using **ASP.NET Core, C#, Entity Framework Core, SQL, and Angular**.
+
+I work across backend architecture, REST APIs, authentication, database-driven applications, and frontend integration, with an emphasis on **layered architecture, Repository Pattern, dependency injection, and clean application structure**.
+
+---
+
+## About Me
+
+* Software Engineer Intern working primarily with **ASP.NET Core, C#, MySQL, and Angular**
+* Building full-stack business applications and RESTful APIs
+* Experienced with **Entity Framework Core, LINQ, Repository Pattern, Layered Architecture, and Dependency Injection**
+* Frontend experience with **Angular, TypeScript, HTML, CSS, and Bootstrap**
+* Interested in backend engineering, system design, secure application development, and scalable software architecture
+* Published researcher in **computer vision and deepfake detection**
 
 ---
 
 ## Current Focus
 
-* Frontend development using **Angular**, **HTML**, **CSS**, **Bootstrap**
-* Backend development with **Python (Flask)** and growing transition to **.NET (C#)**
-* Database interaction via **SQLAlchemy**, **PostgreSQL**, **SQLite**, and **MS SQL Server**
-* Authentication workflows: session handling, bcrypt, secure routing
-* API design and frontend-backend integration
-* Learning **ASP.NET Core Web API** and structured backend architecture
-* Understanding system design fundamentals and secure coding practices
+```text
+Backend          → ASP.NET Core · C# · Web API · MVC · EF Core · LINQ
+Frontend         → Angular · TypeScript · HTML5 · CSS3 · Bootstrap
+Databases        → MySQL · SQL Server · PostgreSQL · SQLite · Firestore
+Architecture     → Layered Architecture · Repository Pattern · DI · REST APIs · ORM
+Authentication   → ASP.NET Core Identity · JWT · Role-Based Authorization · Sessions · bcrypt
+Tools            → Git · GitHub · Visual Studio · VS Code · Postman · Swagger
+```
 
 ---
 
-## Projects
+## Featured Projects
 
-### [TRUEVISION](https://github.com/warkariii28/TRUEVISION)
-Flask-based deepfake detection web application integrating ML inference into a structured workflow.
+### Enterprise Business Management System — AryamanBMS
 
-* CNN + Vision Transformer model integration
-* MediaPipe face filtering and image validation
-* Grad-CAM explainability visualization
-* PostgreSQL-backed result logging with SQLAlchemy
-* Structured UI for prediction, feedback, and analytics  
-* **Purpose:** understand ML + web application integration
+Enterprise-style business management platform developed using **ASP.NET Core MVC, C#, Entity Framework Core, MySQL, and Bootstrap**.
+
+* Full-stack ERP-style application with **20+ business modules**
+* Database-driven architecture spanning **93 relational tables**
+* Implemented CRUD workflows using **EF Core and LINQ**
+* Applied **Repository Pattern, Layered Architecture, Dependency Injection**
+* Implemented **ASP.NET Core Identity and role-based authorization**
+* Built pagination, search, filtering, AJAX interactions, file uploads, and dashboard analytics
+* Added **PDF and Excel export** functionality
+
+> Flagship project demonstrating practical backend and full-stack .NET development.
+
+---
+
+### [BrightPath](https://github.com/warkariii28/BrightPath)
+
+Full-stack Learning Management System built with **ASP.NET Core Web API, Angular, SQL Server, and Entity Framework Core**.
+
+* Designed RESTful APIs using layered architecture
+* Implemented **JWT-based authentication and authorization**
+* Supports multiple user roles and learning workflows
+* Applied service and repository layers for separation of concerns
+* Implemented DTO validation and structured API responses
+* Added centralized exception handling through middleware
+* Angular frontend uses services, route guards, HTTP interceptors, and Signals-based state
+* Includes CRUD workflows for students, courses, and enrollments
+
+---
+
+### [Sanatana Yoga Studio](https://github.com/warkariii28/Sanatana-Yoga-Website)
+
+Full-stack Angular application combining a public yoga studio website with authenticated member and administrative workflows.
+
+* Built with **Angular 21, TypeScript, Angular SSR, Firebase Authentication, and Cloud Firestore**
+* Implemented standalone Angular components and **Angular Signals**
+* Added role-based workflows for **Guests, Members, and Admins**
+* Implemented route guards and Firestore Security Rules
+* Built member booking workflows with validation, capacity checks, and duplicate-booking prevention
+* Developed administrative workflows for classes, schedules, and bookings
+* Integrated SSR for public-facing pages and improved initial rendering
+
+---
+
+### [TrueVision — Deepfake Detection System](https://github.com/warkariii28/TrueVision)
+
+Computer-vision research project for detecting facial deepfakes using deep learning techniques.
+
+* CNN and Vision Transformer based deepfake detection
+* Face detection and preprocessing using MediaPipe
+* **Grad-CAM** explainability visualization
+* Web application integrating machine-learning inference
+* PostgreSQL-backed result storage using SQLAlchemy
+* Designed system architecture and contributed to software development
+
+**Publication:**
+*TrueVision: A Vision-based Deepfake Detection System* — ICLI 2025 Conference Proceedings, Atlantis Press / Springer Nature.
 
 ---
 
 ### [Northstar-ID](https://github.com/warkariii28/Northstar-ID)
-Backend-focused authentication system.
 
-* Flask-based login and registration system
+Backend-focused authentication application developed to explore secure authentication workflows.
+
+* Flask-based registration and login
 * bcrypt password hashing
-* Session-based authentication and route protection
-* SQLAlchemy ORM with SQLite  
-* **Purpose:** understand authentication and security fundamentals
+* Session-based authentication
+* Protected routes and authentication flows
+* SQLAlchemy ORM with SQLite
 
 ---
 
-### [Sanatana Yoga](https://github.com/warkariii28/sanatana-yoga)
-Frontend-focused structured informational website.
+## Technical Stack
 
-* Built with Angular, Bootstrap, and custom CSS
-* Component-based architecture
-* Responsive layout and clean navigation
-* Firebase Firestore integration for newsletter  
-* **Purpose:** strengthen frontend architecture and UI structuring
-
----
-
-### [Power BI Sales Dashboard](https://github.com/warkariii28/powerbi-sales-dashboard)
-Interactive analytics dashboard for business data insights.
-
-* Revenue trends, regional performance, category analysis
-* Salesperson performance tracking
-* Clean visual hierarchy using Power BI  
-* **Purpose:** develop structured data interpretation skills
+| Category              | Technologies                                                                 |
+| --------------------- | ---------------------------------------------------------------------------- |
+| **Languages**         | C# · SQL · Python · C++                                                      |
+| **Backend**           | ASP.NET Core MVC · ASP.NET Core Web API · Flask                              |
+| **Frontend**          | Angular · TypeScript · HTML5 · CSS3 · Bootstrap 5                            |
+| **ORM / Data Access** | Entity Framework Core · LINQ · SQLAlchemy                                    |
+| **Databases**         | MySQL · SQL Server · PostgreSQL · SQLite · Firebase Firestore                |
+| **Authentication**    | ASP.NET Core Identity · JWT · Role-Based Authorization · Sessions · bcrypt   |
+| **Architecture**      | Layered Architecture · Repository Pattern · Dependency Injection · REST APIs |
+| **Cloud / Services**  | Firebase Authentication · Cloud Firestore                                    |
+| **Tools**             | Git · GitHub · Visual Studio · VS Code · Postman · Swagger                   |
+| **Analytics**         | Power BI                                                                     |
 
 ---
 
-### [.NET Learning APIs](https://github.com/warkariii28/Student-Enrollment-System)
-Ongoing backend development practice using ASP.NET Core.
+## Engineering Interests
 
-* Building REST APIs using **ASP.NET Core Web API**
-* Understanding controllers, routing, middleware, and dependency injection
-* Working with **Entity Framework Core** for database operations
-* Implementing authentication and layered architecture concepts  
-* **Purpose:** transition to industry-standard backend development with C#
-
----
-
-## Tech Stack
-
-|       Layer      |                       Tools                       |
-|------------------|---------------------------------------------------|
-| Frontend         | Angular · HTML · CSS · Bootstrap                  |
-| Backend          | Python (Flask) · C# (.NET / ASP.NET Core)         | 
-| Database         | PostgreSQL · SQLite · MS SQL Server               |
-| ORM              | SQLAlchemy · Entity Framework Core                |
-| Auth             | bcrypt · Flask Sessions · .NET Identity (learning)|
-| Cloud / Services | Firebase Firestore                                |
-| Analytics        | Power BI                                          |
-| Version Control  | Git · GitHub                                      |
+* Backend development with **ASP.NET Core and C#**
+* RESTful API design
+* Database-driven application architecture
+* Authentication and authorization
+* Clean and maintainable application structure
+* System design fundamentals
+* Secure software development
+* Full-stack application development
+* Computer vision and applied machine learning
 
 ---
 
-## Learning Path
+## Research
 
-* 🔐 Google Cybersecurity Professional Certificate *(in progress)*
-* 🛡️ TryHackMe — Pre-Security completed, CyberSecurity 101 ongoing
-* 💻 Transitioning into **.NET backend development (C#)**
-* 🧠 Focus on secure coding, backend architecture, and system design
+### TrueVision: A Vision-based Deepfake Detection System
+
+**Lead Author · ICLI 2025 Conference Proceedings**
+
+Research focused on detecting facial deepfakes using computer vision and deep learning.
+
+The project combined model-based detection with explainability techniques to make predictions more interpretable.
 
 ---
 
-## Contact
+## Certifications & Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
+* **Google Cybersecurity Professional Certificate** — In Progress
+* **TryHackMe Pre-Security Path** — Completed
+* Currently strengthening knowledge in:
+
+  * Backend architecture
+  * System design
+  * Secure coding
+  * ASP.NET Core
+  * Database design and optimization
+
+---
+
+## GitHub Activity
+
+I use GitHub to document projects, experiment with technologies, and maintain practical implementations across **.NET, Angular, databases, cybersecurity, and applied machine learning**.
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat\&logo=linkedin)](https://linkedin.com/in/atharv-warkari)
+
+[![Email](https://img.shields.io/badge/Email-Contact-grey?style=flat\&logo=gmail)](mailto:atharv.warkari7@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-warkariii28-black?style=flat\&logo=github)](https://github.com/warkariii28)
+
+---
+
+### Building software with a focus on structure, reliability, and practical engineering.
